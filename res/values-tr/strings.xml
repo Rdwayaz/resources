@@ -1,0 +1,228 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Özel Navigasyon Çubu?u</string>
+
+    <!-- Navbar config -->
+    <string name="nav_bar">Navigation bar?</string>
+    <string name="nav_bar_summary">Navigasyon bar?n?n nas?l görünmesi gerekti?ini ayarlay?n</string>
+
+    <string name="nav_bar_layout">Düzen</string>
+    <string name="nav_bar_layout_normal">Normal</string>
+    <string name="nav_bar_layout_left">Sola dayal?</string>
+    <string name="nav_bar_layout_right">Sa?a dayal?</string>
+    <string name="nav_bar_layout_center">Merkez</string>
+    <string name="nav_bar_layout_compact">Kompakt</string>
+    <string name="nav_bar_layout_tablet">Tablet</string>
+
+    <string name="nav_bar_inverted">Ters</string>
+    <string name="nav_bar_inverted_summary">Geri ve Son tu?lar?n? yer de?i?tir</string>
+
+    <string name="nav_bar_normalize_button_size">Tu? boyutlar?n? normalle?tir</string>
+    <string name="nav_bar_normalize_button_size_summary">Tüm tu?lar? ayn? boyut yap</string>
+
+    <string name="immersive">Sürükleyici Mod</string>
+    <string name="change_immersive_settings">Sürükleyici modu düzenle</string>
+    <string name="hide_status">Durum çubu?unu gizle</string>
+    <string name="hide_nav">Navi bar?n? gizle</string>
+    <!-- / Navbar config -->
+
+    <!-- Button types -->
+    <string name="accessibility_home">Ana Ekran</string>
+    <string name="accessibility_back">Geri</string>
+    <string name="accessibility_recent">?zlenim</string>
+    <string name="keycode">Tu?lama</string>
+    <string name="clipboard">Pano</string>
+    <string name="space">Yok</string>
+    <string name="spacer">Bo?luk</string>
+    <string name="menu_ime">Klavye Seçici</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="media_volume">Ortam ses seçimi</string>
+    <string name="tasker_event">Tasker olay?</string>
+    <string name="toggle_profile">Profili etkinle?tir</string>
+    <string name="launch_app">Uyg ba?lat</string>
+    <string name="single_tap">Tek dokunma</string>
+    <string name="double_tap">Çift Dokunma</string>
+    <string name="long_press">Uzun basma</string>
+    <string name="double_tap_delay">Gecikme</string>
+    <string name="double_tap_incompatible">Bu tu? tipi ile uyumlu de?il</string>
+    <string name="dt_limitation">Çift dokunma ücretsiz sürümde bulunmamaktad?r..\nGeli?tirmeyi desteklemek ve çift dokunmay? açmak için pro sürümü sat?l al?n?</string>
+    <!-- / Button types -->
+
+    <!-- Button config -->
+    <string name="xt_left_button">Ekstra sol tu?</string>
+    <string name="xt_center_button">Ekstra merkez tu?</string>
+    <string name="xt_right_button">Ekstra sa? tu?</string>
+    <string name="xt_left_button_dt">Ekstra sol tu?(çift dokunma)</string>
+    <string name="xt_center_button_dt">Ekstra merkez tu?(çift dokunma)</string>
+    <string name="xt_right_button_dt">Ekstra sa? tu?(çift dokunma)</string>
+    <string name="xt_n_button">Ekstra tu? %s</string>
+    <string name="button_actions">Eylemler</string>
+    <string name="button_action">Eylem</string>
+    <string name="button_override">Bu tu?un üzerine yaz</string>
+    <string name="button_type">Tip</string>
+    <string name="button_keycode">Tu?lama</string>
+    <string name="button_icon">?kon</string>
+    <string name="unchanged">De?i?memi?</string>
+    <!-- / Button config -->
+
+    <!-- App selector -->
+    <string name="select_apps">Uyg seç</string>
+    <string name="action_search">Ara</string>
+    <string name="no_result">Sonuç yok</string>
+    <!-- / App selector -->
+
+    <!-- Profiles -->
+    <string name="profiles">Profiller</string>
+    <string name="profiles_summary">Aktif ya da pasif profiller olu?tur</string>
+    <string name="no_profiles">Profil yok</string>
+    <string name="automation">Otomasyon</string>
+    <string name="profile">Profil</string>
+    <string name="profile_enabled">Uyguland?</string>
+    <string name="profile_name">?sim</string>
+    <string name="profile_name_summary">Profilin ismini de?i?tir</string>
+    <string name="delete">Sil</string>
+    <string name="profiles_limitation">Ücretsiz versiyon en fazla 2 profille s?n?rl?d?r.\nGeli?tirmeyi desteklemek ve s?n?r? kald?rmak için Pro sat?n al?n?</string>
+    <string name="profile_show_in_app_shortcuts">Uygulama k?sayollar?nda göster</string>
+    <string name="profile_app_shortcut_toggle">Seç \"%s\"</string>
+    <string name="disable_all_profiles">Tüm profilleri etkisizle?tir</string>
+    <string name="all_profiles_disabled">Tüm profiller etkisizle?tirildi</string>
+    <string name="app_shortcuts_max_limit">Uyg k?sayollar? için maksimum s?n?ra ula?t?n?z</string>
+    <!-- / Profiles -->
+
+    <!-- Custom layout -->
+    <string name="preview">?zlenim</string>
+    <string name="start">Ba?lat</string>
+    <string name="center">Merkez</string>
+    <string name="end">Son</string>
+    <string name="select_button">Tu? eklemek için seçin</string>
+    <string name="add_button">Tu? ekle</string>
+    <string name="save">Kaydet</string>
+    <string name="reset">S?f?rla</string>
+
+    <string name="no_home_title">Ana ekran tu?u bulunamad?</string>
+    <string name="no_home_message">Cihaz? kullanabilmek için ana ekran tu?u gerekmektedir. Lütfen kaydetmeden önce Ana Ekran tu?u ekleyin.</string>
+
+    <string name="adjust_button_width">Tu? geni?li?ini ayarla</string>
+
+    <string name="custom_layout_limitation">Custom layouts are not available in free version.\nBuy pro version to support the development and unlock custom layouts?</string>
+    <string name="custom_layout_samsung_warning">Bu ayarla Samsung cihazlarda hata verebilir. Kullan?rken dikkatli olun.</string>
+    <string name="rename">Adland?r</string>
+    <string name="smartbar">Ak?ll?bar</string>
+    <!-- / Custom layout -->
+
+    <!-- Themes -->
+    <string name="theme">Tema</string>
+    <string name="theme_default">Varsay?lan</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="theme_s8">S8</string>
+    <string name="theme_filled">Dolgulu</string>
+    <string name="theme_invisible">Görünmez</string>
+    <string name="theme_holo">Holo</string>
+    <string name="theme_material">Material</string>
+    <string name="invalid_theme">Geçersiz tema</string>
+    <string name="theme_limitation">Themes ücretsiz sürümde desteklenmemektedir.\nGeli?tirmeyi desteklemek ve temalar? açmak için Pro versiyonu sat?n al?n?</string>
+    <string name="wip_feature">This feature is currently in development. It will improve over time.</string>
+    <string name="themes_warning">Themed buttons will lose their long-press function. This is an Android limitation and cannot be fixed.</string>
+    <string name="theme_incompatibility">Incompatibility</string>
+    <string name="theme_disable_screen_pinning">Themes are not compatible with screen pinning. Disable screen pinning?</string>
+    <!-- / Themes -->
+
+    <!-- Tasker plugin UI -->
+    <string name="twofortyfouram_locale_breadcrumb_format">%1$s%2$s%3$s</string>
+    <string name="twofortyfouram_locale_breadcrumb_separator">\u0020&gt;\u0020</string>
+    <string name="twofortyfouram_locale_menu_dontsave">Cancel</string>
+    <string name="twofortyfouram_locale_menu_help">Help</string>
+    <string name="twofortyfouram_locale_menu_save">Done</string>
+
+    <string name="tasker_configuration">Configuration</string>
+    <string name="tasker_select_action">Action</string>
+    <string name="tasker_select_profile">Select profile</string>
+    <string name="tasker_select_button">Select button</string>
+    <string name="none">None</string>
+    <string name="tasker">Tasker</string>
+    <string name="tasker_summary">Dynamically enable/disable profiles</string>
+    <string name="tasker_profile_empty">Please select a profile</string>
+    <string name="tasker_no_profiles">Please create a profile</string>
+
+    <string name="tasker_enable_profile">Enable profile</string>
+    <string name="tasker_disable_profile">Disable profile</string>
+    <string name="tasker_in_profile">in profile %s</string>
+    <string name="tasker_pro_limitation">Tasker events are not available in free version.\nBuy pro version to support the development and unlock tasker events?</string>
+    <string name="tasker_events_wip">This feature is currently in development. It will improve over time.</string>
+    <!-- / Tasker plugin UI -->
+
+    <!-- App info -->
+    <string name="settings">Settings</string>
+    <string name="information">About</string>
+    <string name="share">Share</string>
+    <string name="other_apps">More apps</string>
+    <string name="version">Version</string>
+    <string name="grant_perm">Grant permission</string>
+    <string name="perm_not_granted_desc"><![CDATA[
+        This app needs <i>WRITE_SECURE_SETTINGS</i> permission to apply changes. You can grant the permission by using root or a PC.
+        <br><br><b>If you have a PC</b>
+        <br><b>1 </b>Install ADB on your PC
+        <br><b>2 </b>Connect your phone with USB Debugging enabled
+        <br><b>3 </b>Open a command prompt
+        <br><b>4 </b>Type \'adb shell\' to enter adb shell
+        <br><b>5 </b>Type the following command to grant the permission
+        <br><br>pm grant %1$s android.permission.WRITE_SECURE_SETTINGS
+        <br><br><b>If you have root</b>
+        <br>Press next and allow superuser access to automatically grant the permission or do the steps below.
+        <br><b>1 </b>Open Terminal Emulator
+        <br><b>2 </b>Type \'su\' to enter superuser mode
+        <br><b>3 </b>Type the following command to grant the permission
+        <br><br>pm grant %1$s android.permission.WRITE_SECURE_SETTINGS
+        <br><br><b>Click the button below to copy the command.</b>
+    ]]></string>
+    <string name="retry_title">Retry</string>
+    <string name="retry_desc">Restart the test</string>
+    <string name="copied">Copied</string>
+    <string name="help_needed">You failed the compatibility test. What would you like to do next?</string>
+
+    <string name="buy">Buy</string>
+    <string name="buy_pro">Buy pro version</string>
+    <string name="buy_pro_summary">Support the development and remove ads</string>
+    <string name="thanks">Thank you for supporting the development.</string>
+
+    <string name="welcome">Welcome to %s. This intro will help you get started.</string>
+    <string name="copy">Copy command</string>
+    <string name="get_started">Get started</string>
+    <string name="safety_first">Safety first</string>
+    <string name="safety_desc"><![CDATA[
+        To ensure that this application will work on your device, you need to run a compatibility test to continue.
+        <br><br>Tap <b>start</b> to run the test.
+    ]]></string>
+    <string name="cancel">Cancel</string>
+    <string name="test_desc"><![CDATA[
+        Tap the <b>next button on your navbar</b> to continue.
+        <br><br>If you don\'t see anything, it means your device is not compatible with this app.
+    ]]></string>
+    <string name="compatibility_test">Compatibility test</string>
+    <string name="finish">Finish</string>
+    <string name="all_done">All done</string>
+    <string name="all_done_desc">Setup is complete. You can start using this application.</string>
+    <string name="exit">Exit</string>
+    <string name="contact">Contact the developer</string>
+    <string name="no_email_app">No email app</string>
+    <string name="no_root">Please grant the permission from your PC using ADB.</string>
+    <string name="not_compatible">This application is not compatible with this Android version. All functions will be disabled to prevent crashes.</string>
+    <string name="might_not_be_compatible">This application might not work on your Android system.</string>
+    <string name="experimental">Experimental tweaks</string>
+    <string name="experimental_warning">These settings allow you to replace the existing back, home and recent keys. They might not work as expected.</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="reset_navbar">Reset</string>
+    <string name="reset_navbar_summary">Reset navbar to system default</string>
+    <string name="author">Author</string>
+    <string name="other_apps_summary">Check out other apps from me</string>
+    <string name="share_text" formatted="false">Check out \"%s\"\nhttps://play.google.com/store/apps/details?id=%s</string>
+    <string name="share_with">Share \"%s\" with</string>
+    <string name="support_development">Support development</string>
+    <string name="report_bugs">Report bugs</string>
+    <string name="repoer_bugs_summary">Report bugs or request new features</string>
+    <string name="translate">Translate</string>
+    <string name="translate_summary">Translate the app to your language</string>
+    <string name="send_email">Send email</string>
+    <string name="licenses">Open source licenses</string>
+    <!-- / App info -->
+
+</resources>
